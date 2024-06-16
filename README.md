@@ -1,17 +1,4 @@
-# watch_commerce_ui
+# watches_commerce_ui
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# watch_store_UI
+![Uploading Simulator Screenshot - iPhone 15 Pro Max - 2024-06-16 at 04.32.54.png…]()
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-06-16 at 04 32 51](https://github.com/kururu-abdo/watch_store_UI/assets/45058799/b622ab88-1002-4722-91c0-d026c0dd2a99)
